@@ -17,3 +17,7 @@ git and github files
 for the insertion of link
 
 [link]()
+
+for the insertion of image
+
+![eifel tower]
