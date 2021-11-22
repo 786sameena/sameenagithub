@@ -8,8 +8,10 @@ git and github files
 ###### heading6
 
 
-* italic styleof font style*
+*italic styleof font style*
+
 **bold type of font style**
+
 ***for both bold and italic***
 
 
