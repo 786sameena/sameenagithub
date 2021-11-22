@@ -35,9 +35,17 @@ for list:
     2. banana
     3. custard apple
 
-table 1 | table 2
+table 1|table 2
 --------|--------
 name|sam
 number|32
-  
+
+1. ordered list1
+   1. item1
+   2. item2
+
+1. ordered list2
+    1. gf
+    2. dhh
+   
   
